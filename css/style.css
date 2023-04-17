@@ -638,7 +638,7 @@ section.sec07 {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-image: url(/img/teacherbg.jpg);
+  background-image: url(../img/teacherbg.jpg);
   padding: 40px 0;
   text-align: center;
   line-height: 1.5rem;
